@@ -1,2 +1,2 @@
 # Machine-Learning
-Practicing ML techniques, coding them by referting to online materials and youtube Videos and Course Material
+Practicing ML Algorithms as a part of ML course, practicals.
